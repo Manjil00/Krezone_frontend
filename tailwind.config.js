@@ -6,6 +6,10 @@ module.exports = {
       fontFamily: {
         Mona: ['"Mona Sans"', 'sans-serif'],
       },
+      colors: {
+        customBlue: '#2E4D70',
+        beige: '#f5e2ab',
+      },
     },
   },
   plugins: [],
