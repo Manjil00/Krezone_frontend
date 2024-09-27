@@ -12,7 +12,7 @@ function App() {
   <div className="Section2">
 
   </div>
-  
+
   </div>
   );
 }

@@ -14,7 +14,7 @@ return (
     <img src="../images/LOGO.png" className="cursor-pointer" alt="LOGO"/>
 
     </div>
-    <div className={` bg-transparent absolute min-h-[30vh] left-0 top-[90%] w-full p-5 flex flex-col md:static md:flex bg-white md:bg-transparent md:min-h-fit md:w-auto gap-9 text-sm ${isNavOpen ? 'block' : 'hidden'}`}>
+    <div className={`fixed min-h-[30vh] left-0 top-[50px] w-full p-5 flex flex-col md:static md:flex bg-white md:bg-transparent md:min-h-fit md:w-auto gap-9 text-sm ${isNavOpen ? 'block' : 'hidden'}`}>
         <ul className=" cursor-pointer flex flex-col gap-4 md:flex-row  md:gap-8 md:justify-evenly md:text-base font-Mona">
         <li className="hover:font-semibold">Home</li>
         <li className="hover:font-semibold">Services</li>
