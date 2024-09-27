@@ -1,8 +1,14 @@
+import Nav from "./components/Nav";
+import Section1 from "./components/Section1";
+
 
 function App() {
   return (
-  <div className="maincontainer">
-      <h1 className='text-center text-red-800'>HElloooooo world !!!!!!!!!</h1>
+  <div className="maincontainer h-full w-full">
+    
+  <Nav/>
+  <Section1/>
+
   </div>
 
   );
