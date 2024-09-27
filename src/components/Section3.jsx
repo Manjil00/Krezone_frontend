@@ -5,7 +5,7 @@ import { PiGooglePlayLogoFill } from "react-icons/pi";
 
 const Section3 = () => {
 return (
-    <div className="Section3 h-auto w-full bg-beige flex justify-evenly items-center">
+    <div className="Section3 h-auto w-full bg-beige flex justify-evenly items-center mt-8 p-5">
     <div className="leftSec flex flex-col gap-5">
     <div className="testemonials flex">
     <img src="../icons/heartmonitor.png" className="w-[50px] h-[50px] md:h-auto md:w-auto" alt="testimonials"/>
