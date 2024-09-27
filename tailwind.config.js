@@ -8,7 +8,7 @@ module.exports = {
       },
       colors: {
         customBlue: '#2E4D70',
-        beige: '#f5e2ab',
+        beige: '#F0F0F0',
       },
     },
   },
