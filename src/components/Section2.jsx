@@ -2,7 +2,7 @@ import React from 'react';
 
 const Section2 = () => {
 return (
-    <div className="Section2 relative h-auto w-full bg-red-800 mt-2">
+    <div className="Section2 relative h-auto w-full bg-white mt-2">
     <img src="../images/Rectangle 31.png" className="hidden md:block relative z-0" alt="Rectangle"/>
 
 <div className="pos relative md:absolute inset-0 h-full w-full object-cover z-1 mt-20">

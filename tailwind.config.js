@@ -7,8 +7,9 @@ module.exports = {
         Mona: ['"Mona Sans"', 'sans-serif'],
       },
       colors: {
-        customBlue: '#2E4D70',
+        customBlue: '#3D3D4E',
         beige: '#F0F0F0',
+        darkBeige: '#D9D9D9',
       },
     },
   },
