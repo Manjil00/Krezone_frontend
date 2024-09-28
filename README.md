@@ -15,7 +15,7 @@ This project is a React-based for booking or refering an appointment also,descri
 
 
 ## Screenshots
-![App Screenshot](   https://imgur.com/undefined )
+![App Screenshot]( public/images/Krezona1.png)
 ![App Screenshot]( public/images/Krezona2.png )
 
 
