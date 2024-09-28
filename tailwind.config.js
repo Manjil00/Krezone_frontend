@@ -10,6 +10,7 @@ module.exports = {
         customBlue: '#3D3D4E',
         beige: '#F0F0F0',
         darkBeige: '#D9D9D9',
+        referbg: '#58befc',
       },
     },
   },

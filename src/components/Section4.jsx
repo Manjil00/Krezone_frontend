@@ -9,7 +9,7 @@ import { PiNumberSquareThreeFill } from "react-icons/pi";
 
 const Section4 = () => {
 return (
-    <div className="Section4 h-auto w-full bg-white flex justify-evenly items-center mt-8 p-5">
+    <div className="Section4 h-auto w-full bg-transparent flex justify-evenly items-center mt-8 p-5">
     <div className="leftSec flex flex-col gap-5">
     <div className="Appointement flex justify-center items-center">
     <img src="../icons/heartmonitor.png" className="w-[40px] h-[30px] md:h-auto md:w-auto" alt="testimonials"/>

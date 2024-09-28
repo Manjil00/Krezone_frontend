@@ -5,6 +5,7 @@ import 'react-multi-carousel/lib/styles.css';
 
 //ICONS
 import { FaArrowRightLong } from "react-icons/fa6";
+import { MdArrowOutward } from "react-icons/md";
 
 
 const Section5 = () => {
@@ -30,7 +31,7 @@ const Section5 = () => {
     };
     
 return (
-    <div className="Section4 h-auto w-full bg-white mt-8 p-5">
+    <div className="Section4 h-auto w-full bg-transparent mt-8 p-5">
     <div className="Appointement flex justify-center items-center gap-2">
     <img src="../icons/heartmonitor.png" className="w-[40px] h-[30px] md:h-auto md:w-auto" alt="testimonials"/>
     <p className="font-Mona text-sm md:text-3xl text-customBlue">OUR BLOGS</p>
@@ -79,6 +80,26 @@ return (
                     </div>
                 </div>
     </Carousel>
+
+    <div className="viewall flex justify-center">
+<button className='bg-slate-500 p-2 md:p-3 rounded-xl font-Mona font-normal
+text-center text-xs md:text-xl w-[100px] md:w-[150px]'>View All</button>
+    </div>
+
+    <div className="refferal flex justify-between items-center h-[126px] md:h-[289px] w-full bg-referbg mt-20 relative">
+        <div className="leftSec">
+        <h1 className='text-white font-bold font-Mona text-sm md:text-4xl ml-5 md:ml-44 '>Have to refer someone to our <br/> Services?</h1>
+    <div className="linkref flex justify-center items-center  mt-3 ml-5 md:ml-8 md:mt-8 gap-4">
+    <h2 className='text-white font-normal font-Mona underline text-xs md:text-2xl '>Fill in a form and we'll do the rest</h2>
+    <MdArrowOutward color='white'/>
+    </div>
+        </div>
+
+        <img src='../images/kid.png' className='h-[150px] w-[150px] md:h-auto md:w-auto absolute -inset-y-6 md:-inset-y-10 right-0' alt='Kid'/>
+    
+
+    </div>
+    
     </div>
 
 
