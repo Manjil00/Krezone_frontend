@@ -89,7 +89,7 @@ text-center text-xs md:text-xl w-[100px] md:w-[150px]'>View All</button>
     <div className="refferal flex justify-between items-center h-[126px] md:h-[289px] w-full bg-referbg mt-20 relative">
         <div className="leftSec">
         <h1 className='text-white font-bold font-Mona text-sm md:text-4xl ml-5 md:ml-44 '>Have to refer someone to our <br/> Services?</h1>
-    <div className="linkref flex justify-center items-center  mt-3 ml-5 md:ml-8 md:mt-8 gap-4">
+    <div className="linkref flex justify-center items-center  mt-3 ml-5 md:ml-8 md:mt-8 gap-4 cursor-pointer">
     <h2 className='text-white font-normal font-Mona underline text-xs md:text-2xl '>Fill in a form and we'll do the rest</h2>
     <MdArrowOutward color='white'/>
     </div>
